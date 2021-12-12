@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Mushroom Roulette MapEditor
+Exec=mushroomroulette
+Icon=${SNAP}/meta/gui/mushroomroulette.png
+Terminal=false
+StartupNotify=true
+StartupWMClass=MapEditor.exe
+Type=Application
+Categories=Application;Game;ArcadeGame;
