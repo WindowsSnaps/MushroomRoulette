@@ -2,7 +2,7 @@
 Encoding=UTF-8
 Name=Mushroom Roulette
 Exec=mushroomroulette
-Icon=${SNAP}/meta/gui/mushroomroulette.ico
+Icon=${SNAP}/meta/gui/mushroomroulette.png
 Terminal=false
 StartupNotify=true
 StartupWMClass=Mushroom Roulette.exe
