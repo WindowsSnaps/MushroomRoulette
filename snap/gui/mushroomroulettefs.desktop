@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Mushroom Roulette Fullscreen
+Exec=mushroomroulette 4
+Icon=${SNAP}/meta/gui/mushroomroulette.png
+Terminal=false
+StartupNotify=true
+StartupWMClass=Mushroom Roulette.exe
+Type=Application
+Categories=Application;Game;ArcadeGame;
