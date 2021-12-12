@@ -83,7 +83,7 @@ environment:
   WINEDLLOVERRIDES: "$WINEDLLOVERRIDES;mscoree,mshtml="    # Prevent pop-ups about Wine Mono and Wine Gecko
 
 apps:
-  photoscape:
+  mushroomroulette:
     extensions: [ gnome-3-28 ]
     command: bin/sommelier run-exe
     environment:
