@@ -19,9 +19,7 @@ description: |
   The general idea is to get the highest score at the lowest level.
   Otherwise the most efficient score.
 
-  **Hats**
-
-  There are six hats and each hat gives you a temporary score bonus. If you are hit by a butterfly while wearing a hat, it protects your score, however, you lose your current hat and the hat's temporary score bonus. If you are wearing a hat and pickup another hat, the score bonus from the first hat will become permanent and you will only lose the score of the new hat when a butterfly hits you.
+  * Hats -There are six hats and each hat gives you a temporary score bonus. If you are hit by a butterfly while wearing a hat, it protects your score, however, you lose your current hat and the hat's temporary score bonus. If you are wearing a hat and pickup another hat, the score bonus from the first hat will become permanent and you will only lose the score of the new hat when a butterfly hits you.
 
   * Well - The well holds magical powers and if you jump into one of these you will be transported to one of three mini-games. All mini games give you the chance to boost your score, so when one appears in your main game you better jump down it quick as it wont be around for long!
 
